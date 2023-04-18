@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @raz6tamir
+# 👋 Hi, I’m Raz
 - 👀 I’m interested in Data & Full Stack
-- 🌱 I’m currently learning Scala & Data Science
+- 🌱 I’m currently learning Data Science
 
 <!---
 raz6tamir/raz6tamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
